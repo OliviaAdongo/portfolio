@@ -634,7 +634,7 @@ footer .copyright p a:hover {
     padding-top: 80px;
   }
   #contact .row {
-    position: relative;
+    position: sticky;
   }
   #contact .form {
     padding-right: 80px;
